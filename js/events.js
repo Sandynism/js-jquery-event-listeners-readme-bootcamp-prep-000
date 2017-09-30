@@ -28,11 +28,11 @@ function submitIt() {
 }
 });
 
-```$(document).ready(function(){
+$(document).ready(function(){
   // call functions here
   getIt()
   frameIt()
   pressIt()
   submitIt()
 
-});```
+});
